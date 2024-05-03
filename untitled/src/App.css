@@ -1,0 +1,22 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+a, a:hover, a:focus, a:active {
+  /* Styles */
+}
+.card {
+  padding: 2em;
+}
+.read-the-docs {
+  color: #888;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh;
+}
+

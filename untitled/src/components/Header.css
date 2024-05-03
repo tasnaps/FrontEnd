@@ -1,0 +1,15 @@
+    header {
+        padding: 1em 0;
+        border-bottom: 1px solid #ddd;
+    }
+
+    nav ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    h1 {
+        margin-bottom: 1em;
+    }
