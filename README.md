@@ -1,19 +1,42 @@
-# Chart view app
+# 📊 Chart View App
 
-## Features
+This is a web application that lets you view dynamic charts based on randomly generated data. 
 
-1. Generate random data.
-2. View data in various chart formats, including line, spline, area, column, bar, pie, and scatter charts.
-3. Customize chart settings, such as name, type, and color.
+## 🎯 Features
 
-### Prerequisites
-Node.js
+- **Data Generation**: Generate random data on the spot.
+- **Chart Formats**: View data in various chart formats:
+   - Line
+   - Spline
+   - Area
+   - Column
+   - Bar
+   - Pie
+   - Scatter
+- **Customization**: Customize chart settings such as name, type, and color.
 
-### Installation
-Clone the project repository
-Navigate to the project directory:
-cd <PROJECT_DIRECTORY>
-Install dependencies
-npm install
-Run the app
-npm start
+## 🔧 Prerequisites 
+
+Before you begin, make sure you have [Node.js](https://nodejs.org/en/download/) installed on your system.
+
+## ⚙️ Installation 
+
+Follow these steps to get the app up and running:
+
+1. **Clone the Project**:
+
+   Use the following command to clone the project repository:
+
+       - git clone <PROJECT_REPOSITORY_URL>
+   
+
+2. **Navigate to the Project Directory**
+
+
+3. **Install Dependencies**
+
+       - npm install
+
+🚀 Run the App
+
+    - npm start
