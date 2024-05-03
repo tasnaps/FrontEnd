@@ -27,7 +27,7 @@ Follow these steps to get the app up and running:
 
    Use the following command to clone the project repository:
 
-       - git clone <PROJECT_REPOSITORY_URL>
+       - git clone https://github.com/tasnaps/FrontEnd.git
    
 
 2. **Navigate to the Project Directory**
