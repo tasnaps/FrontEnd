@@ -30,7 +30,8 @@ Follow these steps to get the app up and running:
        - git clone https://github.com/tasnaps/FrontEnd.git
    
 
-2. **Navigate to the Project Directory**
+2. **Navigate to the Project Directory (untitled)**
+
 
 
 3. **Install Dependencies**
